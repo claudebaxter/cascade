@@ -21,7 +21,7 @@ ol {
 	list-style: decimal;
 }
 ul {
-	padding-left: 1.4em
+	padding-left: 1.4em;
 	list-style: square;
 }
 table {
@@ -45,7 +45,7 @@ body {
 	font-family: "Palatino Linotype", Baskerville, serif;
 	padding-top: 115px;
 	background: #CDE6FF url(images/bg_body.png) repeat-x;
-	max-width: 800px
+	max-width: 800px;
 	margin: 0 auto;
 }
 h1 {
